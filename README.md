@@ -1,3 +1,8 @@
+---
+### No longer maintained. Please see [@fiquu/slseed-web-api](https://github.com/fiquu/slseed-web-api).
+---
+
+
 # Fi Slseed API
 
 Serveless Seed API project.
